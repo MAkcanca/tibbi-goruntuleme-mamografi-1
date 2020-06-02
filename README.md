@@ -1,6 +1,6 @@
 # Tıbbi Görüntü Analizi - Mamografi
 Mamografi verisinde basit analizlerle doku tespiti - https://akcanca.com/tibbi-goruntu-analizi-mamografi/
-
+![](https://raw.githubusercontent.com/MAkcanca/tibbi-goruntuleme-mamografi-1/master/example.png)
 ## Kullanılan Yöntem
 Otsu metodu ile maskeleri çıkarılmış iki doku tipinin (dense/fatty) modu alınarak histogramın tepelerinin karşılaştırılması yöntemiyle çalışmaktadır.
 
